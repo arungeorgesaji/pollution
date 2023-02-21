@@ -1,5 +1,0 @@
-http://localhost {
-    proxy /ws/ ws://localhost:8000/ws/test/ {
-        websocket
-    }
-}
